@@ -1,0 +1,147 @@
+body {
+    background-color: #0c222d;
+}
+
+.header {
+    background-color: #0c222d;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.logo {
+    height: 24px;
+}
+
+.logo-img {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    max-width: 100%;
+    display: inline-block;
+
+}
+
+.header-nav {
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 24px;
+}
+
+.account {}
+
+.account-header {
+    text-decoration: none;
+    color: white;
+}
+.line-text{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 800;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #fbd784;
+}
+.content-title{
+    line-height: 120%;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: white;
+}
+.content-hero {
+    display: flex;
+    width: 100%;
+    max-width: 1920px;
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: column;
+    background-color: #0c222d;
+    align-items: center;
+}
+
+.content-list {
+    list-style: none;
+}
+
+.content-line-text {
+    color: #fbd784;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 800;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+}
+
+.list-title {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    font-family: 'Serif Display', sans-serif;
+    font-size: 64px;
+    line-height: 110%;
+    font-weight: 600;
+    color: white;
+}
+
+.list-text {
+    margin-bottom: 32px;
+    color: white;
+}
+
+.number {
+    position: absolute;
+    font-size: 200px;
+    line-height: 100%;
+    font-weight: 700;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+
+.footer {
+    background-color: #0c222d;
+}
+
+.logo.footer {
+    margin-bottom: 24px;
+    height: 24px;
+}
+
+.footer-text {
+    color: white;
+}
+
+.copyright {
+    color: #FFFFFF;
+}
+
+.more-of-blog {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    color: #fbd784;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
+
+.footer-link {
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    display: grid;
+}
+
+.MNTN-footer-text {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    color: #fbd784;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
